@@ -1,0 +1,10 @@
+.text-center{
+    text-align: center;
+}
+.numerics{
+    background-color: lightgray;
+    color: rgb(64, 99, 0);
+}
+.clear{
+    color: red;
+}
